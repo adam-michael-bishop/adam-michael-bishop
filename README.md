@@ -24,12 +24,6 @@ My background also includes **network engineering** and hands-on experience in b
 
 ---
 
-## GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-michael-bishop&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-michael-bishop&layout=compact&theme=tokyonight)
-
----
-
 ## Connect
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/adam-michael-bishop) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adam.michael.bishop@gmail.com)
